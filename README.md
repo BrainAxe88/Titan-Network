@@ -1,5 +1,3 @@
-影片教學：https://youtu.be/aAgXceMIrD0
-
 指令如下:
 
 <h2>Ubuntu</h2>
@@ -33,4 +31,4 @@ Ubuntu可以直接輸入這個：```git clone https://github.com/goddeceive/inst
 Centos可以直接輸入這個：```sudo yum install -y git && git clone https://github.com/goddeceive/install_titannet.git && cd install_titannet/ && sudo chmod +x centos-install_and_setup.sh && sudo ./centos-install_and_setup.sh```
 
 titannet註冊網址，附上我的邀請碼，感謝
-https://test1.titannet.io/intiveRegister?code=qeEUoR
+https://test1.titannet.io/intiveRegister?code=SkFtgJ
